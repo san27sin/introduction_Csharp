@@ -117,11 +117,11 @@ namespace lesson_5
         {
             Console.Write(indent);
             text += indent;
-            Console.Write(lastDirectory ? "└─" : "├─");//посмотреть как было у автора, ошибка в writeline
+            Console.Write(lastDirectory ? "└─" : "├─");
             text += lastDirectory ? "└─" : "├─";
             indent += lastDirectory ? " " : "|";
             text += lastDirectory ? " " : "|";
-            DirectoryInfo[] subDirects = dir.GetDirectories();//возвращает текущую (массив) директорию, в глубь никто лезть не будет
+            DirectoryInfo[] subDirects = dir.GetDirectories();
 
             
             FileInfo[] subFiles = dir.GetFiles();
@@ -156,7 +156,7 @@ namespace lesson_5
             
 
 
-            for (int i = 0; i < subDirects.Length;i++)//пройтись по каждой из этой директории
+            for (int i = 0; i < subDirects.Length;i++)
             {
                 PrintDir(subDirects[i],indent, i == subDirects.Length-1, ref text);
             }
