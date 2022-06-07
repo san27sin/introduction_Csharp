@@ -1,0 +1,6 @@
+C:\Users\sin27\source\repos\Lesson_7\Lesson_7\Lesson_7edit\bin\Release\Lesson_7.dll
+C:\Users\sin27\source\repos\Lesson_7\Lesson_7\Lesson_7edit\bin\Release\Lesson_7.pdb
+C:\Users\sin27\source\repos\Lesson_7\Lesson_7\Lesson_7edit\obj\Release\Lesson_7edit.csproj.AssemblyReference.cache
+C:\Users\sin27\source\repos\Lesson_7\Lesson_7\Lesson_7edit\obj\Release\Lesson_7edit.csproj.CoreCompileInputs.cache
+C:\Users\sin27\source\repos\Lesson_7\Lesson_7\Lesson_7edit\obj\Release\Lesson_7.dll
+C:\Users\sin27\source\repos\Lesson_7\Lesson_7\Lesson_7edit\obj\Release\Lesson_7.pdb
